@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android App</string>
+    <string name="nomPrenom">Germain ADAM</string>
+    <string name="date">2021</string>
+    <string name="titreApp">Android App</string>
+    <string name="localisezMoi">Find out where I am!</string>
+    <string name="historique">History</string>
+    <string name="followMoi">Follow me</string>
+    <string name="distanceEseo">Distance to ESEO</string>
+    <string name="distanceText">.........</string>
+    <string name="viderHisto">Clear history</string>
+</resources>

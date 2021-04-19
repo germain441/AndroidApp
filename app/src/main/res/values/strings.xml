@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android App</string>
+    <string name="nomPrenom">Germain Adam</string>
+    <string name="date">2021</string>
+    <string name="titreApp">Android App</string>
+    <string name="localisezMoi">Localisez moi !</string>
+    <string name="historique">historique</string>
+    <string name="followMoi">Follow moi</string>
+    <string name="distanceEseo">Distance jusqu à l ESEO</string>
+    <string name="distanceText">.........</string>
+    <string name="viderHisto">Vider historique</string>
+</resources>
